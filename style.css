@@ -1,0 +1,75 @@
+
+#head {
+    background-color: #8576FF;
+    padding-bottom: 30px;
+}
+#hello {
+        font-family: "Kaushan Script", cursive;
+        font-weight: 400;
+        font-style: normal;
+      }
+#hello-p {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: italic;
+  }
+  #about-me {
+    font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+  text-align: center;
+  }
+  #skill-p {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: italic;
+  }
+  #code {
+    font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+  }
+  #code-p {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: italic;
+  }
+  #gaming {
+    font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+  }
+  #gaming-p {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: italic;
+  }
+  #food {
+    font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+  }
+  #food-p {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: italic;
+  }
+  #end {
+    font-family: "Kaushan Script", cursive;
+        font-weight: 400;
+        font-style: normal;
+  }
+  #end-p {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: italic;
+  }
+  #end-container {
+    background-color: #8576FF;
+    padding-bottom: 50px;
+    
+  }
+  #game-adventure-time {
+    height: 200px;
+    padding-bottom: 50px;
+  }
